@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 第一篇github page 博客
 
-You can use the [editor on GitHub](https://github.com/veryjuly/veryjuly.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+可能是最近无所事事，又想起来博客的事了，之前也弄过几次博客，都没有坚持下去。弄过独立wordprees博客，emblog,博客园，csdn博客。独立博客要买空间，钱的事，博客也没什么价值没什么访问量，最重要的还要备案，真的很麻烦。别的博客空间有广告或页面不干净。还有一点就是所有的博客备份都不方便，特别是带数据库的。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###为什么这次又想起来静态博客
+一，好备份。
+二，空间好找，不行自己用树莓派在家做过小服务器。
+三，github page 免费。
+四，可以学习练习git。
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/veryjuly/veryjuly.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
