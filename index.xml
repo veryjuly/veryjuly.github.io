@@ -1,61 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>非常七月</title>
+    <title>彩虹软件</title>
     <link>/</link>
-    <description>Recent content on 非常七月</description>
+    <description>Recent content on 彩虹软件</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>/article/are-you-doing-the-right-way/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      
-      <guid>/article/are-you-doing-the-right-way/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
-    
-    <item>
-      <title>Simple Post Title</title>
-      <link>/article/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
-      
-      <guid>/article/simple-post-title/</guid>
-      <description>这是标题 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</description>
-    </item>
-    
-    <item>
-      <title>Simple Image Post</title>
-      <link>/article/simple-image-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>/article/simple-image-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
-    
-    <item>
-      <title>彩虹数据高清硬盘播出系统</title>
-      <link>/article/hdplayer/</link>
+      <title>TS流字幕机</title>
+      <link>/product/tscg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/article/hdplayer/</guid>
+      <guid>/product/tscg/</guid>
+      <description>简介 直接在TS流上叠加字幕，不用转成模拟信号，没有模数转换的质量损失，一台字幕机叠加8套节目。
+特点 1，2U19寸机架式服务器主机；
+2，linux系统,高效稳定；
+3，直接mpeg2码流输入输出，无模数转换，质量无损；
+4，一机多通道，一台字幕机同时在多个频道上叠加字幕；
+5，管理程序可同时管理多台字幕机的多个通道；
+6，多种字幕叠加，左飞字幕，上飞字幕，动画挂角，台标；</description>
+    </item>
+    
+    <item>
+      <title>彩虹数字高清硬盘播出系统</title>
+      <link>/product/hdplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/product/hdplayer/</guid>
       <description>简介 彩虹数字高清硬盘播出系统是专为小型电视台或单位、企业、学校电视台，以级互联网直播等需求而开发的低成本高质量的播出系统。为适应数字化潮流，采用了全数字化解决方案，不再有模数转换的损失。根据需求可以选择不同的输出方式，广电系统可以选择SDI和HDMI输出或直接编码后ASI码流输出，企业单位可以选择双显示输出，网络推流可以选择UDP、RTP、RTMP输出。节目源可以支持几乎所有主流媒体格式，同时也支持网络流输入。并可实时在视频上叠加台标，动画角标，左飞字幕，上飞字幕等字幕内容。
-特点 •全格式支持：
-支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播；
-支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
+特点 •全格式支持： 支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播； 支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
     </item>
     
     <item>
-      <title>彩虹数据高清硬盘播出系统</title>
-      <link>/hdplayer/</link>
+      <title>彩虹数字高清硬盘播出系统</title>
+      <link>/product/livecg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/hdplayer/</guid>
+      <guid>/product/livecg/</guid>
       <description>简介 彩虹数字高清硬盘播出系统是专为小型电视台或单位、企业、学校电视台，以级互联网直播等需求而开发的低成本高质量的播出系统。为适应数字化潮流，采用了全数字化解决方案，不再有模数转换的损失。根据需求可以选择不同的输出方式，广电系统可以选择SDI和HDMI输出或直接编码后ASI码流输出，企业单位可以选择双显示输出，网络推流可以选择UDP、RTP、RTMP输出。节目源可以支持几乎所有主流媒体格式，同时也支持网络流输入。并可实时在视频上叠加台标，动画角标，左飞字幕，上飞字幕等字幕内容。
 特点 •全格式支持： 支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播； 支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
     </item>
