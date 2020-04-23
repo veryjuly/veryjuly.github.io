@@ -3,6 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/article/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article/simple-post-title/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/simple-post-title/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/article/simple-image-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/simple-image-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/auth/jamica-jock/</loc>
+  </url>
+  
+  <url>
+    <loc>/auth/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>/auth/somrat/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jamica-jock/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/somrat/</loc>
+  </url>
+  
+  <url>
+    <loc>/article/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/asi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/auth/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/caihongsoft/</loc>
     <priority>0</priority>
   </url>
@@ -13,7 +94,36 @@
   </url>
   
   <url>
+    <loc>/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/product/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/programming/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sdi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/starting/</loc>
     <priority>0</priority>
   </url>
   
@@ -27,6 +137,11 @@
   </url>
   
   <url>
+    <loc>/tags/theme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/product/hdplayer/</loc>
   </url>
   
@@ -35,7 +150,21 @@
   </url>
   
   <url>
+    <loc>/article/hdplayer/</loc>
+  </url>
+  
+  <url>
+    <loc>/hdplayer/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%A1%AC%E7%9B%98%E6%92%AD%E5%87%BA/</loc>
     <priority>0</priority>
   </url>
   

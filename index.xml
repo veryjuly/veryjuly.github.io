@@ -6,9 +6,73 @@
     <description>Recent content on 彩虹软件</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Are You Doing the Right Way</title>
+      <link>/article/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>/article/are-you-doing-the-right-way/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Are You Doing the Right Way</title>
+      <link>/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>/blog/are-you-doing-the-right-way/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Post Title</title>
+      <link>/article/simple-post-title/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      
+      <guid>/article/simple-post-title/</guid>
+      <description>这是标题 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</description>
+    </item>
+    
+    <item>
+      <title>Simple Post Title</title>
+      <link>/blog/simple-post-title/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      
+      <guid>/blog/simple-post-title/</guid>
+      <description>这是标题 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</description>
+    </item>
+    
+    <item>
+      <title>Simple Image Post</title>
+      <link>/article/simple-image-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>/article/simple-image-post/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>Simple Image Post</title>
+      <link>/blog/simple-image-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>/blog/simple-image-post/</guid>
+      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+    </item>
+    
+    <item>
+      <title>How To Setup Meghna Hugo</title>
+      <link>/blog/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/installation/</guid>
+      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+    </item>
     
     <item>
       <title>TS流字幕机</title>
@@ -41,6 +105,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/product/livecg/</guid>
+      <description>简介 彩虹数字高清硬盘播出系统是专为小型电视台或单位、企业、学校电视台，以级互联网直播等需求而开发的低成本高质量的播出系统。为适应数字化潮流，采用了全数字化解决方案，不再有模数转换的损失。根据需求可以选择不同的输出方式，广电系统可以选择SDI和HDMI输出或直接编码后ASI码流输出，企业单位可以选择双显示输出，网络推流可以选择UDP、RTP、RTMP输出。节目源可以支持几乎所有主流媒体格式，同时也支持网络流输入。并可实时在视频上叠加台标，动画角标，左飞字幕，上飞字幕等字幕内容。
+特点 •全格式支持： 支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播； 支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
+    </item>
+    
+    <item>
+      <title>彩虹数据高清硬盘播出系统</title>
+      <link>/article/hdplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/article/hdplayer/</guid>
+      <description>简介 彩虹数字高清硬盘播出系统是专为小型电视台或单位、企业、学校电视台，以级互联网直播等需求而开发的低成本高质量的播出系统。为适应数字化潮流，采用了全数字化解决方案，不再有模数转换的损失。根据需求可以选择不同的输出方式，广电系统可以选择SDI和HDMI输出或直接编码后ASI码流输出，企业单位可以选择双显示输出，网络推流可以选择UDP、RTP、RTMP输出。节目源可以支持几乎所有主流媒体格式，同时也支持网络流输入。并可实时在视频上叠加台标，动画角标，左飞字幕，上飞字幕等字幕内容。
+特点 •全格式支持：
+支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播；
+支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
+    </item>
+    
+    <item>
+      <title>彩虹数据高清硬盘播出系统</title>
+      <link>/hdplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/hdplayer/</guid>
       <description>简介 彩虹数字高清硬盘播出系统是专为小型电视台或单位、企业、学校电视台，以级互联网直播等需求而开发的低成本高质量的播出系统。为适应数字化潮流，采用了全数字化解决方案，不再有模数转换的损失。根据需求可以选择不同的输出方式，广电系统可以选择SDI和HDMI输出或直接编码后ASI码流输出，企业单位可以选择双显示输出，网络推流可以选择UDP、RTP、RTMP输出。节目源可以支持几乎所有主流媒体格式，同时也支持网络流输入。并可实时在视频上叠加台标，动画角标，左飞字幕，上飞字幕等字幕内容。
 特点 •全格式支持： 支持几乎所有主流媒体格式，各种格式均不需要转换直接可以兼容，直接无缝混播； 支持混合播放 PAL 制， NTSC 制和高清素材，不同格式节目切换时无黑场、停顿，台标不抖动、闪烁：</description>
     </item>
